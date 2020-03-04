@@ -24,3 +24,8 @@ Fire the following commands in the terminal :
 
 1. 68 face landmarks for each face in the image is saved as Output_faces.jpg in the root of the directory.
 2. The curve for jawlines is saved as Jawlines.jpg in the root of the directory.
+
+## References
+
+1. https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
+2. https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
